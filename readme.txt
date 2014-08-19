@@ -1,5 +1,5 @@
 === NGINX Cache Optimizer ===
-Contributors: getClouder, Hristo Sg
+Contributors: getclouder, Hristo Sg
 Tags: nginx, caching, speed, memcache, memcached, performance
 Requires at least: 3.0.1
 Tested up to: 3.9.2
