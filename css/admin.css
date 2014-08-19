@@ -6,7 +6,7 @@ h3 { margin: 0 0 10px; }
 .m0 { margin: 0 !important; }
 .clr { clear: both; display: block; height: 0; line-height: 0; font-size: 0; }
 .clear:before, .clear:after { content: ""; display: table; }
-.clear:after { clear: both; }
+.clear:after { clear: both;}
 .clear { zoom: 1; }
 
 .error { color: red; text-align: center;}
@@ -23,7 +23,7 @@ h3 { margin: 0 0 10px; }
 .wrap h2 { margin: 0 0 15px; padding: 0; line-height: 29px; }
 .box { margin: 20px 0 0; background: #fff; border: 1px solid #dbdbdb; padding: 20px; }
 .greybox { margin: 10px 0 0; background: #f9f9f9; border: 1px solid #dbdbdb; padding: 20px; }
-.greybox p { font-style: italic; }
+.greybox p { font-style: italic; color: #999;}
 
 /* BOX 2 */
 .box:nth-of-type(2) .greybox > div:nth-of-type(1) { float: left; width: 70%; margin: 0 2% 0 0; }
