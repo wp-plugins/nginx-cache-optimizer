@@ -10,7 +10,7 @@
  * Plugin Name:       NGINX Cache Optimizer
  * Description:       Through the settings of this plugin you can manage how your Wordpress interracts with Nginx cache. Before you can use this plugin you need to have Nginx installed and configured.
  * Version:           1.0
- * Author:            getclouder
+ * Author:            getClouder
  * Text Domain:       nginxcacheoptimizer
  * Domain Path:       /languages
  */
