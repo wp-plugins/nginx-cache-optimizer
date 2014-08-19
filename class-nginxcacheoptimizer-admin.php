@@ -201,7 +201,7 @@ class NGINXCacheOptimizer_Admin {
 			'manage_options',
 			NGINXCacheOptimizer::PLUGIN_SLUG,   // Page slug
 			array( $this, 'display_plugin_admin_page' ),
-			plugins_url('NGINXCacheOptimizer/css/cacher-white-1.svg')
+			plugins_url('nginx-cache-optimizer/css/cacher-white-1.svg')
 		);
 	}
 

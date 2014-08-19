@@ -3,14 +3,14 @@
  * NGINX Cache Optimizer
  *
  * @package           NGINX Cache Optimizer
- * @author            getclouder
+ * @author            George Penkov
  * @link              http://www.getclouder.com/
  *
  * @wordpress-plugin
  * Plugin Name:       NGINX Cache Optimizer
  * Description:       Through the settings of this plugin you can manage how your Wordpress interracts with Nginx cache. Before you can use this plugin you need to have Nginx installed and configured.
  * Version:           1.0
- * Author:            George Penkov
+ * Author:            getclouder
  * Text Domain:       nginxcacheoptimizer
  * Domain Path:       /languages
  */
