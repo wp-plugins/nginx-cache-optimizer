@@ -1,7 +1,7 @@
 <div class="wrap">
 	
 	<div class="box">
-		<h2><img src="../wp-content/plugins/NGINXCacheOptimizer/css/cacher-black-1.svg" width="25" style="float: left; margin: 2px 5px 0 0;" / >NGINX Cache Optimizer</h2>
+		<h2><img src="../wp-content/plugins/nginx-cache-optimizer/css/cacher-black-1.svg" width="25" style="float: left; margin: 2px 5px 0 0;" / >NGINX Cache Optimizer</h2>
 		<p>The NGINX Cache Optimizer allows you to use two caching mechanisms very efficiently to make your WordPress faster: the NGINX reverse proxy and the Memcached.</p>
 		<p>The main functionality of the NGINX Cache Optimizer is to purge your NGINX cache automatically each time you add a new post, someone comments, or there is another change on your website that needs reverse proxy cache purged in order to become visible for all. You can also use it to purge the cache manually, whenever you want. Additionally, the plugin allows you to easily use Memcached with your WordPress site too.</p>
 	</div>
@@ -100,10 +100,10 @@
 	</div>
 	
 	<div class="box">
-		<h2>Developed by <img src="../wp-content/plugins/NGINXCacheOptimizer/css/getclouder-logo-black.svg" height="24" style="margin: 0 0 -5px 0; display: inline-block;" / ></h2>
+		<h2>Developed by <img src="../wp-content/plugins/nginx-cache-optimizer/css/getclouder-logo-black.svg" height="24" style="margin: 0 0 -5px 0; display: inline-block;" / ></h2>
 		
 		<p>The NGINX Cache Optimizer plugin was developed by the experts at getClouder.com. If you want to spin off a new server in 5 seconds, that comes with NGINX configured as a reverse proxy, Memcached up and running, and working perfectly with this plugin - getClouder.com is the right choice for you!</p>
 		
-		<a style="font-size: 20px; margin: 0 auto; display: block;" class="button button-primary" href="https://www.getclouder.com/?utm_source=plugin&utm_medium=banner&utm_campaign=NGINX%20Cache%20Optimizer" ><strong>Visit</strong> <img src="../wp-content/plugins/NGINXCacheOptimizer/css/getclouder-logo-white.svg" height="24" style="margin: 0 0 -5px 0; display: inline-block;" / ></a>
+		<a style="font-size: 20px; margin: 0 auto; display: block;" class="button button-primary" href="https://www.getclouder.com/?utm_source=plugin&utm_medium=banner&utm_campaign=NGINX%20Cache%20Optimizer" ><strong>Visit</strong> <img src="../wp-content/plugins/nginx-cache-optimizer/css/getclouder-logo-white.svg" height="24" style="margin: 0 0 -5px 0; display: inline-block;" / ></a>
 	</div>
 </div>
