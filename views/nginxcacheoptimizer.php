@@ -93,7 +93,7 @@
 		<p>In order to work correctly, this plugin requires that your server meets the following criteria:</p>
 		
 		<ul>
-			<li>NGINX configured to cache dynamic content (<a href="http://download.getclouder.com/wordpress/conf.d">Download sample NGINX config</a>)</li>
+			<li>NGINX configured to cache dynamic content (<a href="http://download.getclouder.com/wordpress/conf.d" target="_blank">Download sample NGINX config</a>)</li>
 			<li>Writable permissions for the user executing PHP scripts on the NGINX cache folder</li>			
 		</ul>
 		
@@ -104,6 +104,6 @@
 		
 		<p>The NGINX Cache Optimizer plugin was developed by the experts at getClouder.com. If you want to spin off a new server in 5 seconds, that comes with NGINX configured as a reverse proxy, Memcached up and running, and working perfectly with this plugin - getClouder.com is the right choice for you!</p>
 		
-		<a style="font-size: 20px; margin: 0 auto; display: block;" class="button button-primary" href="https://www.getclouder.com/?utm_source=plugin&utm_medium=banner&utm_campaign=NGINX%20Cache%20Optimizer" ><strong>Visit</strong> <img src="../wp-content/plugins/nginx-cache-optimizer/css/getclouder-logo-white.svg" height="24" style="margin: 0 0 -5px 0; display: inline-block;" / ></a>
+		<a style="font-size: 20px; margin: 0 auto; display: block;" class="button button-primary" href="https://www.getclouder.com/?utm_source=plugin&utm_medium=banner&utm_campaign=NGINX%20Cache%20Optimizer" target="_blank"><strong>Visit</strong> <img src="../wp-content/plugins/nginx-cache-optimizer/css/getclouder-logo-white.svg" height="24" style="margin: 0 0 -5px 0; display: inline-block;" / ></a>
 	</div>
 </div>
