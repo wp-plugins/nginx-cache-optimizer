@@ -13,7 +13,7 @@ This plugin allows you to make WordPress faster by using two caching mechanisms:
 
 The main functionality of NGINX Cache Optimizer is to purge your NGINX cache whenever your content updates. For example, when you create a new post, someone comments your articles, etc. In addition to that, if you have a working Memcached service on your server, the plugin will allow you to easily configure and enable WordPress to use it.
 
-=Requirements=
+= Requirements =
 
 In order to work correctly, this plugin requires that your server meets the following criteria:
 
@@ -39,6 +39,7 @@ In order to work correctly, this plugin requires that your server meets the foll
 
 
 == Configuration ==
+ 
 
 = Dynamic Cache Settings =
 * nginx Cache Directory - 
