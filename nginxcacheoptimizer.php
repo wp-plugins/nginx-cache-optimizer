@@ -3,7 +3,7 @@
  * NGINX Cache Optimizer
  *
  * @package           NGINX Cache Optimizer
- * @author            George Penkov
+ * @author            getclouder
  * @link              http://www.getclouder.com/
  *
  * @wordpress-plugin
