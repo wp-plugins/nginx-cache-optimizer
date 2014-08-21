@@ -100,10 +100,10 @@
 	</div>
 	
 	<div class="box">
-		<h2>Developed by <img src="../wp-content/plugins/nginx-cache-optimizer/css/getclouder-logo-black.svg" height="24" style="margin: 0 0 -5px 0; display: inline-block;" / ></h2>
+		<h2>Developed by <img src="../wp-content/plugins/nginx-cache-optimizer/css/getclouder-logo-black.svg" height="20" style="margin: 0 0 -2px 0; display: inline-block;" / ></h2>
 		
 		<p>The NGINX Cache Optimizer plugin was developed by the experts at GetClouder.com. If you want to spin off a new server in 5 seconds, that comes with NGINX configured as a reverse proxy, Memcached up and running, and working perfectly with this plugin - GetClouder.com is the right choice for you!</p>
 		
-		<a style="font-size: 20px; margin: 0 auto; display: block;" class="button button-primary" href="https://www.getclouder.com/?utm_source=plugin&utm_medium=banner&utm_campaign=NGINX%20Cache%20Optimizer" target="_blank"><strong>Visit</strong> <img src="../wp-content/plugins/nginx-cache-optimizer/css/getclouder-logo-white.svg" height="24" style="margin: 0 0 -5px 0; display: inline-block;" / ></a>
+		<a style="font-size: 20px; margin: 0 auto; display: block;" class="button button-primary" href="https://www.getclouder.com/?utm_source=plugin&utm_medium=banner&utm_campaign=NGINX%20Cache%20Optimizer" target="_blank"><strong>Visit</strong> <img src="../wp-content/plugins/nginx-cache-optimizer/css/getclouder-logo-white.svg" height="20" style="margin: 0 0 -2px 0; display: inline-block;" / ></a>
 	</div>
 </div>
