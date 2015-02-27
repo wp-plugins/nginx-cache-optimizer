@@ -2,8 +2,8 @@
 Contributors: getclouder, Hristo Sg
 Tags: nginx, caching, speed, memcache, memcached, performance
 Requires at least: 3.0.1
-Tested up to: 4.0
-Stable tag: 1.0
+Tested up to: 4.1.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -54,9 +54,13 @@ This field allows you to exclude URLs from the cache. This means that if you nee
 = Memcached Settings =
 * Memcached Instance IP Address - The IP address of the Memcached service. By default, it's set to 127.0.0.1.
 * Memcached Instance Port - The port on which Memcached is running. By default, memcached uses port: 11211
-* Enable Memcached - this is the main Memcached support swtich. Once you enter your Memcached server IP address and port, you need to actually enable it by setting this option to ON. 
+* Enable Memcached - this is the main Memcached support switch. Once you enter your Memcached server IP address and port, you need to actually enable it by setting this option to ON. 
 
 == Changelog ==
 
 = 1.0 =
 * Plugin created.
+
+= 1.1 =
+* Links updated.
+
